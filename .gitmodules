@@ -1,0 +1,9 @@
+[submodule "postgres/14.2-debian"]
+	path = postgres/14.2-debian
+	url = https://github.com/kilfu0701/docker-postgres.git
+[submodule "hadoop/3.3.2-debian"]
+	path = hadoop/3.3.2-debian
+	url = https://github.com/kilfu0701/docker-hadoop.git
+[submodule "hive-hbase"]
+	path = hive-hbase
+	url = https://github.com/kilfu0701/hive-hbase-dokcer.git
